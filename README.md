@@ -10,6 +10,6 @@ an new extruder remix OrbiterV2+‘s gear and Glileo2Extruder’s case,and has F
 
 如发生误触发 请自行判断打印设备的公差是否合适
 
-或者你也可淘宝扫码请我代工
+或者你也可扫码请我淘宝代工
 
 <img width="230" height="230" alt="qrcode" src="https://github.com/user-attachments/assets/f780dab9-75f3-4a8c-95ef-e3561d409ba3" />
