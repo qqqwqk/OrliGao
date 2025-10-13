@@ -8,6 +8,7 @@ an new extruder remix OrbiterV2+‘s gear and Glileo2Extruder’s case,and has F
 国内用户可以仅采购orbiterV2.5fromV2.0升级件及smr115轴承和5x16mm销钉 
 您需要使用3x10mm销钉用于加固filametrix的检测点避免摩擦产生的结构件磨损
 
+如发生误触发 请自行判断打印设备的公差是否合适
 
 或者你也可淘宝扫码请我代工
 
