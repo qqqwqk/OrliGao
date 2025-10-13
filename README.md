@@ -1,5 +1,6 @@
 # OrliGao
 an new extruder remix OrbiterV2+‘s gear and Glileo2Extruder’s case,and has Filametrix support(you'd better use another cut hander model or fix it by yourself)
+<img width="734" height="728" alt="6613aade-d2c4-417a-923c-cbb8e8edc37d" src="https://github.com/user-attachments/assets/00667784-170d-4f52-bc56-b72b131d0c33" />
 
 我称其为奥里给
 
