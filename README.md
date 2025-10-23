@@ -2,7 +2,7 @@
 an new extruder remix OrbiterV2+‘s gear and Glileo2Extruder’s case,and has Filametrix support(you'd better use another cut hander model or fix it by yourself)
 <img width="734" height="728" alt="6613aade-d2c4-417a-923c-cbb8e8edc37d" src="https://github.com/user-attachments/assets/00667784-170d-4f52-bc56-b72b131d0c33" />
 
-我称其为奥里给
+你可以称它为加(伽利略)里奥(奥比特) 但我更愿意称其为奥里给
 
 所有参数需使用orbiter参数 
 使用10T 36电机 
